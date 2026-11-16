@@ -55,8 +55,4 @@ Sampled with a scratch sampler from compressed video frames: approximate.
 
 All three elements are in [HUD elements](../implementation/hud-elements.md): `StatusPill`, `KeybindList`, and `AreaMarkerMesh`.
 
-## To fill in
-
-If the owner names the product, rename this note and its assets to `<product>-hud.md` / `<product>-hud-N.png` and update the links.
-
 Related: [Visuals](INDEX.md), [Status pills](status-pills.md), [Keybind list](keybind-list.md), [Ground area markers](ground-area-markers.md), [HUD principles](hud-principles.md), [Pink sidebar menu](../references/pink-sidebar-menu.md)

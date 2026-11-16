@@ -72,8 +72,4 @@ Sampled with a scratch sampler (region maximum for text) from a compressed scree
 - Slider + value box: a short custom bar (like `AccentSlider`), then `SameLine()` and an `InputFloat` with a 1 px frame border and no buttons.
 - Scroll fade: after drawing a scrolling child, draw a gradient (`AddRectFilledMultiColor`) from transparent to the panel color over its bottom 30–40 px.
 
-## To fill in
-
-If the owner names the product, rename the note and asset to `<product>-<view>`.
-
 Related: [Keybind list](../visuals/keybind-list.md), [Color and contrast](../principles/color-and-contrast.md), [Layout and density](../principles/layout-and-density.md), [Sliders](../widgets/sliders.md), [Fatality — misc tab](fatality-misc-tab.md)

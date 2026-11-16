@@ -34,8 +34,4 @@ A standalone Win32 menu showcase (C++17, Direct3D 11, Dear ImGui) recreating the
 
 Project code is **AGPL v3**; bundled Dear ImGui stays MIT. Studying it is fine; copying its widget code into something you distribute means releasing your source under AGPL. The recipes in this vault are written independently.
 
-## To fill in
-
-Screenshots aren't saved here yet. When the owner adds one, save to `assets/neverlose-ui-main.png`, embed it above, and sample its palette.
-
 Related: [Fatality — misc tab](fatality-misc-tab.md), [Starter bases](starter-bases.md), [Draw-list recipes](../implementation/drawlist-recipes.md), [neverwin — visuals](../visuals/neverwin-visuals.md) (a third-party copy of this product's HUD shaders, read from a DLL), [Neverlose — HUD](../visuals/neverlose-hud.md) (its on-screen elements, from video frames)
