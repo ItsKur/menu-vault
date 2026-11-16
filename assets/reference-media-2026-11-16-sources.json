@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.youtube.com/watch?v=TE_AsKy5GBU",
+      "title": "Neverlose official: Misc and Skinchanger Part 2",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 2,
+      "url": "https://www.youtube.com/watch?v=jxzYimZ2Dns",
+      "title": "NoHyper: Neverlose update showcase",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 3,
+      "url": "https://www.youtube.com/watch?v=6WYeedbSXfM",
+      "title": "Gamesense legacy review",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 4,
+      "url": "https://www.youtube.com/watch?v=fCtdJn4k7vs",
+      "title": "Neverlose official: Visuals Part 1",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 5,
+      "url": "https://www.youtube.com/watch?v=0Ax94kiatgU",
+      "title": "Perfect NL Indicators release",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 6,
+      "url": "https://www.bilibili.com/video/BV1EK6uYwE45",
+      "title": "Fatality community Lua preview",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 7,
+      "url": "https://nxc-lua.com/showcase",
+      "title": "NXC Lua creator showcase",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 8,
+      "url": "https://www.youtube.com/watch?v=pMb6hBihTZQ",
+      "title": "Fatality CS2 review",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 9,
+      "url": "https://www.bilibili.com/video/BV1XaMH6uEHi",
+      "title": "Bilibili mirror: Neverlose visual tutorial",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 10,
+      "url": "https://m.vk.com/lovesync?offset=10&own=1",
+      "title": "VK LoveSync search lead",
+      "accessed": "2026-11-16"
+    },
+    {
+      "id": 11,
+      "url": "https://forum.neverlose.cc/t/major-cs2-product-update-double-precision-15-09-26/592958",
+      "title": "September official update search lead",
+      "accessed": "2026-11-16"
+    }
+  ]
+}

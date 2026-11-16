@@ -1,0 +1,170 @@
+[
+  {
+    "asset": "assets/neverlose-preset-manager-create.png",
+    "source_id": 1,
+    "timestamp_seconds": 48,
+    "width": 640,
+    "height": 360,
+    "sha256": "3054ec672c9bfe9458797980bb75e580bf8f1fa0d2df3d500a4157f12d00a99a"
+  },
+  {
+    "asset": "assets/neverlose-preset-manager-list.png",
+    "source_id": 1,
+    "timestamp_seconds": 66,
+    "width": 640,
+    "height": 360,
+    "sha256": "61c0bb78954a25be73b803c64e20300e1cadd7c65672a9a58a5a67312fb9b531"
+  },
+  {
+    "asset": "assets/neverlose-preset-manager-actions.png",
+    "source_id": 1,
+    "timestamp_seconds": 78,
+    "width": 640,
+    "height": 360,
+    "sha256": "a51035d5a8329ebfcd7046b0add3922c3b90b2cf0c515c953ec2157e8408ca12"
+  },
+  {
+    "asset": "assets/neverlose-preset-manager-delete.png",
+    "source_id": 1,
+    "timestamp_seconds": 114,
+    "width": 640,
+    "height": 360,
+    "sha256": "7c0ede5831eb1d76c98f385ee9bbcd36f664804775f1e2c5fd762d682b8474e9"
+  },
+  {
+    "asset": "assets/neverlose-preset-manager-rename.png",
+    "source_id": 2,
+    "timestamp_seconds": 110,
+    "width": 1280,
+    "height": 720,
+    "sha256": "6588005a52a4c1804bf935f35ad2d2a18478848de0348e4997087c9ad058a0f5"
+  },
+  {
+    "asset": "assets/gamesense-config-and-key-fields-presets.png",
+    "source_id": 3,
+    "timestamp_seconds": 563,
+    "width": 1280,
+    "height": 720,
+    "sha256": "a124bb5d74ab7ee8f9ff2c42e595b6f601b55d332210b35c8d148fa137c9ca0d"
+  },
+  {
+    "asset": "assets/gamesense-config-and-key-fields-tags.png",
+    "source_id": 3,
+    "timestamp_seconds": 95,
+    "width": 1280,
+    "height": 720,
+    "sha256": "c5236a05225f4e6ca382d5fc9412431df8c65d2fe9c96030ca88cac986082396"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-options.png",
+    "source_id": 4,
+    "timestamp_seconds": 1150,
+    "width": 1280,
+    "height": 720,
+    "sha256": "c812dd9ee83225e56acce26940003a87433ef327acad55f73b03151cb7830eb3"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-smoke.png",
+    "source_id": 4,
+    "timestamp_seconds": 1160,
+    "width": 1280,
+    "height": 720,
+    "sha256": "8624d306268a48c2c06e3392af4f75e7c44a04a1a9ed99c358726b245c47b96d"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-trajectory.png",
+    "source_id": 4,
+    "timestamp_seconds": 1190,
+    "width": 1280,
+    "height": 720,
+    "sha256": "b6e4d008440ec5456fcdcbbd1337a44e180b297782a59bbf0e572f89479d1a90"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-endpoint.png",
+    "source_id": 4,
+    "timestamp_seconds": 1210,
+    "width": 1280,
+    "height": 720,
+    "sha256": "e49f638cbf121b51cd8c9d44f0be4a8e237150f47b82d85854e2685c858b356c"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-settings.png",
+    "source_id": 4,
+    "timestamp_seconds": 1245,
+    "width": 1280,
+    "height": 720,
+    "sha256": "2e1db783c609fb706d8d144169adbc657576b89f86fa8d9dc45b5b8b79c00bf0"
+  },
+  {
+    "asset": "assets/neverlose-2026-world-and-windows-events.png",
+    "source_id": 4,
+    "timestamp_seconds": 1265,
+    "width": 1280,
+    "height": 720,
+    "sha256": "ce3805e4743c99a81009d1afd34bff6cfa99f8b0bf3259bca03edd4f3dd84354"
+  },
+  {
+    "asset": "assets/neverlose-perfect-indicators-overview.png",
+    "source_id": 5,
+    "timestamp_seconds": 60,
+    "width": 1280,
+    "height": 720,
+    "sha256": "46f8d3e952bb45b40c6c2091475ef1f6fadf18a7c6e98211adbe4464fc94bc6e"
+  },
+  {
+    "asset": "assets/neverlose-perfect-indicators-color.png",
+    "source_id": 5,
+    "timestamp_seconds": 75,
+    "width": 1280,
+    "height": 720,
+    "sha256": "7f9d2781c0a0109ce8f58eec675a88adc7845b6341fa5fa41dd09c137c2ddc08"
+  },
+  {
+    "asset": "assets/fatality-placeholder-hud-overview.png",
+    "source_id": 6,
+    "timestamp_seconds": 32,
+    "width": 1280,
+    "height": 720,
+    "sha256": "449f9e58f35f94c960c6043e1c15ccc68a81833747a610ea9a6fb05675babf98"
+  },
+  {
+    "asset": "assets/fatality-placeholder-hud-gameplay.png",
+    "source_id": 6,
+    "timestamp_seconds": 38,
+    "width": 1280,
+    "height": 720,
+    "sha256": "9f459adf53ad652a4e581b07a91541eab845317af1b959e4a26c650787eeeb78"
+  },
+  {
+    "asset": "assets/fatality-nxc-config-and-hud-settings-config.png",
+    "source_id": 7,
+    "timestamp_seconds": null,
+    "width": 890,
+    "height": 673,
+    "sha256": "d8d955d645d445d3ebc0de0113ce671e891bc9d86a7e801bc1be3a3c175ea1a4"
+  },
+  {
+    "asset": "assets/fatality-nxc-config-and-hud-settings-theme.png",
+    "source_id": 7,
+    "timestamp_seconds": null,
+    "width": 880,
+    "height": 666,
+    "sha256": "5a9ad96546a1d132af7c56f27397f7c3ce094e249c4bcebe8c91be7146e94fea"
+  },
+  {
+    "asset": "assets/fatality-nxc-config-and-hud-settings-visuals.png",
+    "source_id": 7,
+    "timestamp_seconds": null,
+    "width": 887,
+    "height": 670,
+    "sha256": "f23fff96cebfd93bd93246b2a963a4a590873693c8f1d489935b012b1f087c69"
+  },
+  {
+    "asset": "assets/fatality-review-2024-model-preview.png",
+    "source_id": 8,
+    "timestamp_seconds": 290,
+    "width": 1280,
+    "height": 720,
+    "sha256": "38fccaad4164655768840ddaafe1746d3e2abc6d2d1f485db541dc1f5b3a90f7"
+  }
+]

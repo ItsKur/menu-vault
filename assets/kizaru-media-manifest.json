@@ -1,0 +1,110 @@
+[
+  {
+    "asset": "assets/kizaru-molly-and-tracers-owner-teal.png",
+    "source_id": "owner image",
+    "timestamp_seconds": null,
+    "sha256": "af26afead92ccf6fef11aca308a37ccfc9ed1c45c536c310f85cf73dca8d592b",
+    "width": 958,
+    "height": 469
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-area-18-750.png",
+    "source_id": 1,
+    "timestamp_seconds": 18.75,
+    "sha256": "845af7b2c181822aae3f9f7411ac6abe9e08fce02b951d6404a696619e94ed5d",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-area-20-500.png",
+    "source_id": 1,
+    "timestamp_seconds": 20.5,
+    "sha256": "833c155105f588c28565fd62aaedb6634b441f8ac8547a960ad9eb29cf5934c2",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-beam-39-750.png",
+    "source_id": 1,
+    "timestamp_seconds": 39.75,
+    "sha256": "1996357d0952223379dda7d853dbe68b8a8f474ec23ed83c92b9607521ce6b8d",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-beam-105-200.png",
+    "source_id": 1,
+    "timestamp_seconds": 105.2,
+    "sha256": "f5a3700c83337699a26e43aefcb39e95fa922e3e86f8b9eba6b9d9e60fbe927b",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-beam-105-400.png",
+    "source_id": 1,
+    "timestamp_seconds": 105.4,
+    "sha256": "19e55df7e19e7d7907f167666ff027874c0b88ab5f7ee68f05225ee56323341e",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset": "assets/unmatched-rank-overlays-neverlose.png",
+    "source_id": 4,
+    "timestamp_seconds": 13,
+    "sha256": "e0b6c4020856cc7d30e0abb91624e0e271405540cd8f8a14d104f545e373d95c",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "asset": "assets/unmatched-rank-overlays-gamesense.png",
+    "source_id": 5,
+    "timestamp_seconds": 13,
+    "sha256": "8a7b140011c7511a329b55754e8dfe0a01444aaa4c8e8898e078231a2d415cbc",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-molly-17-24.mp4",
+    "source_id": 1,
+    "timestamp_seconds": 17,
+    "duration_seconds": 7,
+    "transform": "silent excerpt; scaled to 1280x720; original 60fps retained",
+    "sha256": "87d61dd79ea0afd94454b85b7e83ad60f7bd2f63ca1678d2789bb839287d3115",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60/1"
+        }
+      ],
+      "format": {
+        "duration": "7.000000"
+      }
+    }
+  },
+  {
+    "asset": "assets/kizaru-molly-and-tracers-tracer-104-106.mp4",
+    "source_id": 1,
+    "timestamp_seconds": 104,
+    "duration_seconds": 2,
+    "transform": "silent excerpt; scaled to 1280x720; original 60fps retained",
+    "sha256": "6cd6a2f29bd135effed25b39f6bf5f944f6fd6d0222d64b2870b43735e057f3f",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "60/1"
+        }
+      ],
+      "format": {
+        "duration": "2.000000"
+      }
+    }
+  }
+]
