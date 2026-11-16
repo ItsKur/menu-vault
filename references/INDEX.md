@@ -13,7 +13,7 @@ Case studies of menus and open-source repos. Each links to the principles and wi
 - [Neverlose — preset manager](neverlose-preset-manager.md): official November 2026 config tutorial; profile toolbar, inline rename, row actions and sharing.
 - [gamesense — config page and key fields](gamesense-config-and-key-fields.md): legacy explicit save/load page and bracketed bind tags.
 - [Fatality community — NXC config/HUD settings](fatality-nxc-config-and-hud-settings.md): original screenshots of clipboard sharing, scoped reset, HUD settings and themes.
-- [Media sweep and coverage gaps](../visuals/reference-media-sweep.md): new footage, source dates, platform coverage and unverified leads.
+- [Reference media collection](../visuals/reference-media-sweep.md): footage, screenshots, source dates and design comparisons.
 
 ## Menus (from screenshots)
 

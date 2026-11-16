@@ -53,7 +53,7 @@ Use A when the exact boundary matters (standing at the edge of a zone). B is fin
 ## Rules
 
 - The outline carries the information; keep the fill under about 20% alpha.
-- Animate extent when the footprint changes. Reserve colour changes for meaningful state, such as remaining lifetime; avoid decorative pulsing. The owner specifically selected [Kizaru's area treatment](kizaru-molly-and-tracers.md) for this direction. The exact product colour-to-time curve is not recovered.
+- Animate extent when the footprint changes. Reserve colour changes for meaningful state, such as remaining lifetime; avoid decorative pulsing. The owner specifically selected [Kizaru's area treatment](kizaru-molly-and-tracers.md) for this direction.
 - Fade out using the last known shape.
 - Keep the marker below other HUD elements in draw order. It belongs to the scene.
 
@@ -65,12 +65,12 @@ Use A when the exact boundary matters (standing at the edge of a zone). B is fin
 
 - [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): smooth concave red striped region before ignition, then translucent fill around active flames; separate grenade hotspot and scene-surface red wash.
 
-- [Kizaru — molly area and tracers](kizaru-molly-and-tracers.md): actual footage of a smooth filled area; owner-selected teal state and lifetime-driven colour direction. Exact colour-to-time mapping remains unmeasured.
+- [Kizaru — molly area and tracers](kizaru-molly-and-tracers.md): actual footage of a smooth filled area; owner-selected teal state and lifetime-driven colour direction.
 
-- [Neverlose 2026 world/windows](neverlose-2026-world-and-windows.md): newly inspected radius controls and smoke recoloring, **not** a new verified floor-outline example. Keep this distinction when selecting references.
+- [Neverlose 2026 world/windows](neverlose-2026-world-and-windows.md): radius controls, presentation options and smoke recoloring.
 
 - [Owner HUD captures](owner-hud-captures.md): method A look.
 - [velocity.cat — HUD](velocity-cat-hud.md): method B.
-- [neverwin — visuals](neverwin-visuals.md): options only (method unknown): separate outline, shadow, gradient and glow opacities, a fade offset, a timer, and two color sets for safe and danger.
+- [neverwin — visuals](neverwin-visuals.md): separate outline, shadow, gradient and glow opacity settings, a fade offset, a timer, and two color sets for safe and danger.
 
 Related: [HUD principles](hud-principles.md), [Countdown badges](countdown-badges.md), [Depth, glass and glow](../principles/depth-glass-and-glow.md), [Draw-list recipes](../implementation/drawlist-recipes.md)

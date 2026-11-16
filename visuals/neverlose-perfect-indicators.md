@@ -8,7 +8,7 @@ tags: [visuals, neverlose, community, indicators, keybinds, legacy]
 
 ## Evidence
 
-“Perfect NL Indicators Release [Neverlose]”, published **2021-06-24**. This is a **legacy CS:GO community script**, visibly configured in the script-settings page, not proof of the stock/current Neverlose indicator design.[5]
+“Perfect NL Indicators Release [Neverlose]”, published **2021-06-24**. This is a **legacy CS:GO community script**, visibly configured in the script-settings page.[5]
 
 ![Script settings and live HUD, 01:00](../assets/neverlose-perfect-indicators-overview.png)
 ![Color editor, 01:15](../assets/neverlose-perfect-indicators-color.png)
@@ -23,10 +23,6 @@ tags: [visuals, neverlose, community, indicators, keybinds, legacy]
 ## Why keep it
 
 This adds a **low-background, typography-first** alternative to the vault's glass cards. It also preserves a genuine bind-list header/row relationship and a compact watermark example from a different Neverlose era. Use neutral labels “Option A” and “on” when recreating the row.
-
-## Limits
-
-Do not infer which visible overlay component is owned by the script versus the host without its source. A row reading “on” does not establish whether a key is held or toggled. Stills do not establish row-entry animation or timer semantics.
 
 ## Sources
 [5] https://www.youtube.com/watch?v=0Ax94kiatgU — Perfect NL Indicators release

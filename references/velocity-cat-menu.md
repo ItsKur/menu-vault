@@ -139,10 +139,6 @@ On first load there is also a splash screen with the logo and a loading bar. Whe
 - Blur: ImGui has none built in. See [Depth, glass and glow](../principles/depth-glass-and-glow.md) and [Draw-list recipes](../implementation/drawlist-recipes.md); [neverlose-ui](neverlose-ui.md) has a D3D11 implementation.
 - Window scale-in from the center isn't in the recipe. A cheap stand-in is an alpha fade with `ImGuiStyleVar_Alpha`.
 
-## To fill in
-
-No screenshot of the original menu is saved. If the owner adds one, save it as `assets/velocity-cat-menu.png`, embed it at the top, and compare it against the recreation.
-
 The same source also has HUD elements (watermark, keybind list, toasts, hit marker, countdown badge, area outline): see [velocity.cat — HUD](../visuals/velocity-cat-hud.md).
 
 Related: [velocity.cat — HUD](../visuals/velocity-cat-hud.md), [Glass sidebar menu recipe](../implementation/glass-sidebar-menu.md), [Row settings popup](../widgets/row-settings-popup.md), [Settings search](../widgets/settings-search.md), [Color and contrast](../principles/color-and-contrast.md), [Depth, glass and glow](../principles/depth-glass-and-glow.md), [Layout and density](../principles/layout-and-density.md), [Motion](../principles/motion.md), [neverlose-ui](neverlose-ui.md), [Fatality — misc tab](fatality-misc-tab.md)

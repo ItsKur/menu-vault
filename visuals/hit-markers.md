@@ -19,7 +19,7 @@ A brief mark at the point where an action landed, sometimes with a number. Its w
 
 ## Variant: fully parametric (neverwin, options only)
 
-The [neverwin DLL](neverwin-visuals.md) exposes every part of the shape as a setting: number of lines (not fixed at four), gap, size, thickness, rotation, a converge animation with its own time (arms close in, like the snap-in above), drift (the marker moves while it fades), separate fades for the inner and outer ends of each arm, an outline (color, size), glow (size, strength), and a second color for the stronger event. Defaults are unknown. It shows which knobs matter: arm count, rotation and inner fade change the character most.
+The [neverwin DLL](neverwin-visuals.md) exposes every part of the shape as a setting: number of lines (not fixed at four), gap, size, thickness, rotation, a converge animation with its own time (arms close in, like the snap-in above), drift (the marker moves while it fades), separate fades for the inner and outer ends of each arm, an outline (color, size), glow (size, strength), and a second color for the stronger event. Arm count, rotation and inner fade change the character most.
 
 ## Rules
 

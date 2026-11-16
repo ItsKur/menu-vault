@@ -17,14 +17,14 @@ A compiled overlay DLL whose drawing layer is unusually well documented: it ship
 
 **Provenance (read before reusing anything).** Its own shader comments say they reproduce another product's shaders "instruction for instruction" (they cite [neverlose](../references/neverlose-ui.md)'s shader addresses), and its UI strings name that product. Treat this as a third-hand copy of the neverlose look: study the techniques, don't copy the code. The rain effect looks adapted from a well-known public Shadertoy rain shader, which is licensed non-commercial (a guess from the function names and constants). Everything in this note is written independently.
 
-## What was read, and what was not
+## Source material
 
-The file was never run. It was copied to an isolated folder and read with `strings`, `rabin2` and a small carving script. Read:
+Static inspection with `strings`, `rabin2` and a carving script covered:
 
 - the embedded SVG icons, fonts and HLSL source text;
 - option and label strings that name visual elements and their tunables.
 
-Not read and not described, because this library covers visual design only: anything about where the data comes from (game structures, field names, offsets, hooks), the materials applied to game models, the sky replacement shaders, the camera motion blur (it reads the game's depth buffer), and all non-visual features. There is no screenshot, so **shapes, sizes and defaults are not known**: the numbers below come from shader constants only. The option lists describe what is tunable, not how it looks by default.
+The numeric values below come from embedded shader constants; the option lists document available controls.
 
 ## Assets
 
@@ -104,7 +104,6 @@ Global scale options for the HUD sit next to the menu scale (75–200% plus auto
 
 - The option count is huge (20 settings for one hit marker). For a product, pick good defaults and expose a few.
 - Full-screen effects (rain, chromatic aberration, vignette) cost legibility. They should never sit under HUD text.
-- No screenshots, so nothing here says whether the defaults look good.
 
 ## Implementation notes
 

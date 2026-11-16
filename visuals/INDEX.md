@@ -20,7 +20,7 @@ Visual elements that live **outside the menu**: on-screen HUD pieces (status pil
 
 - [unmatched — rank overlays](unmatched-rank-overlays.md): original Neverlose/gamesense demos augmenting existing scoreboard rows.
 
-- [Reference media sweep — indicators, configs and world HUD](reference-media-sweep.md): start here for the November 16 additions; inspected footage, screenshots, source dates and remaining gaps.
+- [Reference media sweep — indicators, configs and world HUD](reference-media-sweep.md): start here for the November 16 additions; footage, screenshots and source dates.
 - [Neverlose 2026 — world visuals and windows](neverlose-2026-world-and-windows.md): trajectory/endpoint examples, radius/presentation controls, window settings and event rows.
 - [Neverlose community — compact indicators](neverlose-perfect-indicators.md): legacy script showcase with watermark, narrow bind panel and center indicators.
 - [Fatality community — Bilibili HUD preview](fatality-placeholder-hud.md): small segmented arc, glyph cluster and menu-open/menu-closed placement.
@@ -51,6 +51,6 @@ Visual elements that live **outside the menu**: on-screen HUD pieces (status pil
 - [Neverlose — HUD](neverlose-hud.md): frames from a match video: info bar, indicator cards with accent bars, small keybind list, monospace hit log, in-world labels and a tracer close-up. Measured and sampled.
 - [Neverlose Recurrence — HUD](neverlose-recurrence-hud.md): the owner's favourite **indicators**: a Figma concept restyle of the neverlose HUD with exact values: one glass recipe (black 70 %, 5 px blur, halo), fading 2 px accent bars, muted state colours, a value-first hotkey grid, avatar-capped spectator chips.
 - [Fatality — in-game visuals](fatality-visuals.md): read from source: blurred 74 % toasts in the menu palette, 1 px boxes with dark halos, 4 px bars with riding numbers, outlined pixel-font labels, a blinking off-screen arrow.
-- [neverwin — visuals](neverwin-visuals.md): read from a compiled DLL: the SDF panel shader (squircle corners, shadow, glow, glass, accent bar), the shared glow pass, the tube line, screen effects, an icon set and every HUD tunable. No screenshots.
+- [neverwin — visuals](neverwin-visuals.md): read from a compiled DLL: the SDF panel shader (squircle corners, shadow, glow, glass, accent bar), the shared glow pass, the tube line, screen effects, an icon set and HUD tunables.
 
 Up: [README](../README.md)

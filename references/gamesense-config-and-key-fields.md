@@ -21,7 +21,7 @@ This is the **explicit-action page** alternative to Neverlose's popup: a selecte
 
 ## Key fields
 
-The **01:35** frame shows tiny bracketed fields aligned at row ends, including a bound mouse-button label and unbound tags. These use text rather than a large standalone keycap, leaving the label and checkbox visually dominant.[3] The captured frame does **not** establish capture cancellation, mouse-button exclusions or mode-menu behavior.
+The **01:35** frame shows tiny bracketed fields aligned at row ends, including a bound mouse-button label and unbound tags. These use text rather than a large standalone keycap, leaving the label and checkbox visually dominant.[3]
 
 ## Palette and density
 

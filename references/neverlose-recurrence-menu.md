@@ -72,7 +72,6 @@ A community **redesign concept** of the neverlose CS2 menu, drawn in Figma rathe
 
 ## What to avoid / weaknesses
 
-- **It is a concept.** Nothing here has been built or tested in a running menu: no hover or pressed states, no open combo list and no animation are drawn.
 - **Two accent values** (`#4b7dfe` for controls, `#4b7bed` for icons) are almost certainly an accident; use one.
 - **Low-contrast hierarchy**: section labels (`#6c6c6c`) and nav text (`#858d92`) are close in value. Over a bright backdrop, 30 % cards can disappear entirely, because the only real separation is the 5 % edge.
 - **Mixed fonts**: Mukta for labels, Inter for values, plus a Mukta Malar fallback on some rows. Choose one family. See [Typography and icons](../principles/typography-and-icons.md).

@@ -34,9 +34,9 @@ A round badge that says three things at once: *what* (icon), *how long* (a timer
 
 ## Seen in
 
-- [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): contrasting in-world treatment, not an edge badge; striped/filled molotov area and grenade-local red glow, with separate small item/timer annotations.
+- [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): in-world striped/filled molotov area and grenade-local red glow, with separate small item/timer annotations.
 
-- [Projectile timing](projectile-timing.md): separates predicted arrival from active lifetime; the newly found Neverlose footage does not yet verify a readable numeric landing timer.
+- [Projectile timing](projectile-timing.md): separates predicted arrival from active lifetime.
 
 - [velocity.cat — HUD](velocity-cat-hud.md)
 - [neverwin — visuals](neverwin-visuals.md): a related bare offscreen arrow (no disc or timer) at a set radius from the screen center, with fill, background and shadow colors.

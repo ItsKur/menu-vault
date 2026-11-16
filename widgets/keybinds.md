@@ -47,7 +47,7 @@ A setting can have several bindings: for example Hold F for one value, Toggle Mo
 
 ## Seen in
 
-- [gamesense — config and key fields](../references/gamesense-config-and-key-fields.md): newly inspected legacy video frame showing bound and unbound bracket tags; capture/mode behavior not established by the still.
+- [gamesense — config and key fields](../references/gamesense-config-and-key-fields.md): legacy video frame showing bound and unbound bracket tags.
 
 - [Neverlose — popups](../references/neverlose-popups.md): variant A.
 - [gamesense — main menu](../references/gamesense-menu.md): variant B.

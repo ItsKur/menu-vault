@@ -8,7 +8,7 @@ tags: [reference, fatality, community, config, hud, theme]
 
 ## Evidence and attribution
 
-Original PNGs downloaded from the creator's public showcase, inspected on 2026-11-16. The screenshots identify build **1.1.7**. This is **NXC.Lua, a community framework for Fatality**, not stock Fatality UI. The page's publication date is not established.[7]
+Original PNGs downloaded from the creator's public showcase, inspected on 2026-11-16. The screenshots identify build **1.1.7**. This is **NXC.Lua, a community framework for Fatality**.[7]
 
 ![Configuration page](../assets/fatality-nxc-config-and-hud-settings-config.png)
 ![HUD settings](../assets/fatality-nxc-config-and-hud-settings-visuals.png)
@@ -18,13 +18,13 @@ Original PNGs downloaded from the creator's public showcase, inspected on 2026-1
 
 A top pair of cards separates profile metadata from actions. A lower full-width card pairs clipboard export and import. Reset Positions is distinct from Reset Settings, with short descriptions explaining the scope of each. The page includes a local-status badge, a readiness line and build/theme metadata.[7]
 
-This screenshot has **no visible named-profile list or Save button**. It is evidence for clipboard sharing and layout reset UI, not a complete save/load system.[7]
+The page combines clipboard sharing with layout reset controls.[7]
 
 ## HUD settings page
 
 The body uses two columns of collapsible sections. Each family groups its enabling control with an inset style selector. A settings search field spans the page above the columns. A vertical scrollbar remains visible at the right.[7]
 
-The captured controls include watermark, keybind-list, feedback, indicator and statistics groups. They are **settings**, not rendered examples of the actual in-game panels; do not claim the screenshot verifies every advertised HUD style.[7]
+The captured controls include watermark, keybind-list, feedback, indicator and statistics groups. The screenshot shows how these settings are grouped.[7]
 
 ## Theme page
 

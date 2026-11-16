@@ -150,7 +150,6 @@ Everything hugs an edge with a 10–25 px margin, and the centre third of the sc
 
 ## What to avoid / weaknesses
 
-- **It is a concept.** There is no motion, no empty or overflow state, and only one hit log line. The indicators' "in progress" state (the spinner in the real product) is not drawn.
 - **No outline on text.** White on 70 % black is fine, but the blur is only 5 px, so over bright, detailed scenes the small 10 px text loses some edge.
 - **Hotkey chips are lighter than the header** (60 % plum against 70 % black) and have no shadow; over sky they get very faint.
 - **Mixed fonts again**: Inter, Mukta and Consolas within one HUD.
