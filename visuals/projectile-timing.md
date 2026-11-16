@@ -29,6 +29,8 @@ A useful future reference must show at least two moments from one continuous seq
 
 ## Seen in
 
+- [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): inspected molotov pending/active states and grenade warning; seconds-style labels are visible, but fuse versus arrival semantics are not established.
+
 - [Neverlose 2026 world/windows](neverlose-2026-world-and-windows.md): presentation controls and trajectory, numeric landing timer still unverified.
 - [Countdown badges](countdown-badges.md): existing source-backed lifetime/directional construction.
 - [Ground area markers](ground-area-markers.md): existing floor-footprint methods.

@@ -63,6 +63,8 @@ Use A when the exact boundary matters (standing at the edge of a zone). B is fin
 
 ## Seen in
 
+- [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): smooth concave red striped region before ignition, then translucent fill around active flames; separate grenade hotspot and scene-surface red wash.
+
 - [Kizaru — molly area and tracers](kizaru-molly-and-tracers.md): actual footage of a smooth filled area; owner-selected teal state and lifetime-driven colour direction. Exact colour-to-time mapping remains unmeasured.
 
 - [Neverlose 2026 world/windows](neverlose-2026-world-and-windows.md): newly inspected radius controls and smoke recoloring, **not** a new verified floor-outline example. Keep this distinction when selecting references.

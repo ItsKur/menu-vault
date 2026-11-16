@@ -1,0 +1,136 @@
+[
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-striped.png",
+    "source_id": 1,
+    "timestamp_seconds": 58,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "6fcd9ed7369860287c864127bcd32d3b2e12ea5df8641a91f3c9c5da26915905"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-active.png",
+    "source_id": 1,
+    "timestamp_seconds": 60,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "e086b2d9e0d3e3e99d614ef9c6e4460c030c4a1db5d51ffe1e9bd7f5abe6e1bb"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-late.png",
+    "source_id": 1,
+    "timestamp_seconds": 62,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "3ca88f33bdcf43de00b815c26f5ec298bf431bf87e56fb82c811950ec4b942c5"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-nade-trajectory.png",
+    "source_id": 1,
+    "timestamp_seconds": 63,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "7882fae1aacd7a2b53364d6227514d2ed050ec175622a72bb24fd5a8f310f9e2"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-nade-warning.png",
+    "source_id": 1,
+    "timestamp_seconds": 65,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "8124d7fbff7df4afdfe92be02315c7f2ecd62d94937bf1df4c3361c18fd88fe6"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-nade-detonation.png",
+    "source_id": 1,
+    "timestamp_seconds": 66,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "e23556a72796d5c66ae4b23dc1b439567399d56787fb0f4eb15b12c32aaf33b7"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-labels.png",
+    "source_id": 1,
+    "timestamp_seconds": 58,
+    "crop_xyxy": [
+      700,
+      440,
+      930,
+      650
+    ],
+    "width": 230,
+    "height": 210,
+    "sha256": "b625e8738e3cc5562f03e4a5d6149ff27170a7a7c76ff730b79e6f54f2453638"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-active-labels.png",
+    "source_id": 1,
+    "timestamp_seconds": 60,
+    "crop_xyxy": [
+      750,
+      400,
+      1020,
+      750
+    ],
+    "width": 270,
+    "height": 350,
+    "sha256": "608db1f64f42ddaab2049a23a75c70b4aaea32e04f1b71c2bd697896ec753376"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-nade-labels.png",
+    "source_id": 1,
+    "timestamp_seconds": 65,
+    "crop_xyxy": [
+      850,
+      480,
+      990,
+      690
+    ],
+    "width": 140,
+    "height": 210,
+    "sha256": "22bc1dd64d4a40cf9517590bd3f03aad27778230797d6cae56131362d28947f9"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-molly-53-61.mp4",
+    "source_id": 1,
+    "timestamp_seconds": 53,
+    "duration_seconds": 8,
+    "transform": "silent 1920x1080 excerpt; 60fps retained; metadata removed",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60/1"
+        }
+      ],
+      "format": {
+        "duration": "8.000000"
+      }
+    },
+    "sha256": "065c00db6441d8e2fbde223bf1e73a897bca2e18a16d8451ad6963e5ed34608c"
+  },
+  {
+    "asset": "assets/fatality-halloween-proximity-nade-62-66.mp4",
+    "source_id": 1,
+    "timestamp_seconds": 62,
+    "duration_seconds": 4,
+    "transform": "silent 1920x1080 excerpt; 60fps retained; metadata removed",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60/1"
+        }
+      ],
+      "format": {
+        "duration": "4.000000"
+      }
+    },
+    "sha256": "9fa86d9dbddf0a129a17ec50485405bfec90d4bd1778499c56cc7723bbcc9c59"
+  }
+]

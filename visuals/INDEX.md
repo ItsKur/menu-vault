@@ -14,6 +14,8 @@ Visual elements that live **outside the menu**: on-screen HUD pieces (status pil
 
 ## New media sweep
 
+- [Fatality Halloween — proximity warnings](fatality-halloween-proximity-warning.md): molotov striped-to-filled footprint and grenade trajectory/local red glow; native 1080p/60 clips, full frames and readable annotation crops.
+
 - [Kizaru — molly area treatment and tracers](kizaru-molly-and-tracers.md): owner-selected lifetime-colour direction, actual area frames, sampled magenta tracers and two video excerpts.
 
 - [unmatched — rank overlays](unmatched-rank-overlays.md): original Neverlose/gamesense demos augmenting existing scoreboard rows.
