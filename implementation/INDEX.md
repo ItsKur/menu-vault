@@ -22,4 +22,6 @@ Dear ImGui code that turns the [principles](../principles/INDEX.md) into a worki
 - [Preview rendering](preview-rendering.md): render a menu to a PNG headlessly, so an agent can check its own design.
 - [Building the code](code/BUILD.md): compile and test the headers.
 
+- [Menu UI audit validation](ui-audit-validation-2026-11-23.md): adversarial validation of 12 audit findings, reproduction traces, toolkit safeguards, and confidence levels.
+
 Up: [README](../README.md)
